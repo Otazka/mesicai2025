@@ -1,0 +1,350 @@
+[
+  {
+    "content": "Roadmap: Python Developer Roadmap\nURL: https://roadmap.sh/python",
+    "metadata": {
+      "roadmap": "python",
+      "type": "roadmap_overview",
+      "title": "Python Developer Roadmap"
+    }
+  },
+  {
+    "content": "Roadmap: Backend Developer Roadmap\nURL: https://roadmap.sh/backend",
+    "metadata": {
+      "roadmap": "backend",
+      "type": "roadmap_overview",
+      "title": "Backend Developer Roadmap"
+    }
+  },
+  {
+    "content": "Roadmap: Algorithms and Data Structures Roadmap\nURL: https://roadmap.sh/algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "roadmap_overview",
+      "title": "Algorithms and Data Structures Roadmap"
+    }
+  },
+  {
+    "content": "Section: Basic Data Structures\nUnderstanding fundamental data structures is crucial for algorithm design.",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "section",
+      "title": "Basic Data Structures",
+      "section_title": "Basic Data Structures"
+    }
+  },
+  {
+    "content": "Topic: Arrays and Strings\nPart of: Basic Data Structures",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Arrays and Strings",
+      "section_title": "Basic Data Structures"
+    }
+  },
+  {
+    "content": "Topic: Linked Lists\nPart of: Basic Data Structures",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Linked Lists",
+      "section_title": "Basic Data Structures"
+    }
+  },
+  {
+    "content": "Topic: Stacks and Queues\nPart of: Basic Data Structures",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Stacks and Queues",
+      "section_title": "Basic Data Structures"
+    }
+  },
+  {
+    "content": "Topic: Hash Tables\nPart of: Basic Data Structures",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Hash Tables",
+      "section_title": "Basic Data Structures"
+    }
+  },
+  {
+    "content": "Topic: Trees and Binary Trees\nPart of: Basic Data Structures",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Trees and Binary Trees",
+      "section_title": "Basic Data Structures"
+    }
+  },
+  {
+    "content": "Topic: Graphs\nPart of: Basic Data Structures",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Graphs",
+      "section_title": "Basic Data Structures"
+    }
+  },
+  {
+    "content": "Section: Sorting Algorithms\nLearn various sorting techniques and their time complexities.",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "section",
+      "title": "Sorting Algorithms",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Bubble Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Bubble Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Selection Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Selection Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Insertion Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Insertion Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Merge Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Merge Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Quick Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Quick Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Heap Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Heap Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Counting Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Counting Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Radix Sort\nPart of: Sorting Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Radix Sort",
+      "section_title": "Sorting Algorithms"
+    }
+  },
+  {
+    "content": "Section: Searching Algorithms\nMaster different search techniques for various data structures.",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "section",
+      "title": "Searching Algorithms",
+      "section_title": "Searching Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Linear Search\nPart of: Searching Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Linear Search",
+      "section_title": "Searching Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Binary Search\nPart of: Searching Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Binary Search",
+      "section_title": "Searching Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Depth-First Search (DFS)\nPart of: Searching Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Depth-First Search (DFS)",
+      "section_title": "Searching Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Breadth-First Search (BFS)\nPart of: Searching Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Breadth-First Search (BFS)",
+      "section_title": "Searching Algorithms"
+    }
+  },
+  {
+    "content": "Topic: A* Search\nPart of: Searching Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "A* Search",
+      "section_title": "Searching Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Dijkstra's Algorithm\nPart of: Searching Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Dijkstra's Algorithm",
+      "section_title": "Searching Algorithms"
+    }
+  },
+  {
+    "content": "Section: Dynamic Programming\nLearn to solve complex problems by breaking them into simpler subproblems.",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "section",
+      "title": "Dynamic Programming",
+      "section_title": "Dynamic Programming"
+    }
+  },
+  {
+    "content": "Topic: Memoization\nPart of: Dynamic Programming",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Memoization",
+      "section_title": "Dynamic Programming"
+    }
+  },
+  {
+    "content": "Topic: Tabulation\nPart of: Dynamic Programming",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Tabulation",
+      "section_title": "Dynamic Programming"
+    }
+  },
+  {
+    "content": "Topic: Longest Common Subsequence\nPart of: Dynamic Programming",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Longest Common Subsequence",
+      "section_title": "Dynamic Programming"
+    }
+  },
+  {
+    "content": "Topic: Knapsack Problem\nPart of: Dynamic Programming",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Knapsack Problem",
+      "section_title": "Dynamic Programming"
+    }
+  },
+  {
+    "content": "Topic: Edit Distance\nPart of: Dynamic Programming",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Edit Distance",
+      "section_title": "Dynamic Programming"
+    }
+  },
+  {
+    "content": "Topic: Fibonacci Series\nPart of: Dynamic Programming",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Fibonacci Series",
+      "section_title": "Dynamic Programming"
+    }
+  },
+  {
+    "content": "Section: Greedy Algorithms\nUnderstand greedy approach for optimization problems.",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "section",
+      "title": "Greedy Algorithms",
+      "section_title": "Greedy Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Activity Selection\nPart of: Greedy Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Activity Selection",
+      "section_title": "Greedy Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Huffman Coding\nPart of: Greedy Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Huffman Coding",
+      "section_title": "Greedy Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Minimum Spanning Tree\nPart of: Greedy Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Minimum Spanning Tree",
+      "section_title": "Greedy Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Shortest Path\nPart of: Greedy Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Shortest Path",
+      "section_title": "Greedy Algorithms"
+    }
+  },
+  {
+    "content": "Topic: Fractional Knapsack\nPart of: Greedy Algorithms",
+    "metadata": {
+      "roadmap": "algorithms",
+      "type": "subsection",
+      "title": "Fractional Knapsack",
+      "section_title": "Greedy Algorithms"
+    }
+  }
+]

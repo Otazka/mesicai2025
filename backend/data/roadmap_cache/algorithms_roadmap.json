@@ -1,0 +1,67 @@
+{
+  "title": "Algorithms and Data Structures Roadmap",
+  "url": "https://roadmap.sh/algorithms",
+  "sections": [
+    {
+      "title": "Basic Data Structures",
+      "content": "Understanding fundamental data structures is crucial for algorithm design.",
+      "subsections": [
+        "Arrays and Strings",
+        "Linked Lists",
+        "Stacks and Queues",
+        "Hash Tables",
+        "Trees and Binary Trees",
+        "Graphs"
+      ]
+    },
+    {
+      "title": "Sorting Algorithms",
+      "content": "Learn various sorting techniques and their time complexities.",
+      "subsections": [
+        "Bubble Sort",
+        "Selection Sort",
+        "Insertion Sort",
+        "Merge Sort",
+        "Quick Sort",
+        "Heap Sort",
+        "Counting Sort",
+        "Radix Sort"
+      ]
+    },
+    {
+      "title": "Searching Algorithms",
+      "content": "Master different search techniques for various data structures.",
+      "subsections": [
+        "Linear Search",
+        "Binary Search",
+        "Depth-First Search (DFS)",
+        "Breadth-First Search (BFS)",
+        "A* Search",
+        "Dijkstra's Algorithm"
+      ]
+    },
+    {
+      "title": "Dynamic Programming",
+      "content": "Learn to solve complex problems by breaking them into simpler subproblems.",
+      "subsections": [
+        "Memoization",
+        "Tabulation",
+        "Longest Common Subsequence",
+        "Knapsack Problem",
+        "Edit Distance",
+        "Fibonacci Series"
+      ]
+    },
+    {
+      "title": "Greedy Algorithms",
+      "content": "Understand greedy approach for optimization problems.",
+      "subsections": [
+        "Activity Selection",
+        "Huffman Coding",
+        "Minimum Spanning Tree",
+        "Shortest Path",
+        "Fractional Knapsack"
+      ]
+    }
+  ]
+}

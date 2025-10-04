@@ -13,7 +13,7 @@ def test_imports():
     print("🧪 Testing package imports...")
     
     required_packages = [
-        ("fastapi", "FastAPI"),
+        ("fastapi", "fastapi"),
         ("uvicorn", "uvicorn"),
         ("langchain", "langchain"),
         ("openai", "openai"),
