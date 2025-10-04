@@ -13,6 +13,14 @@ class Settings(BaseSettings):
     openai_api_key: str
     anthropic_api_key: Optional[str] = None
     
+    # Google OAuth Configuration
+    google_client_id: Optional[str] = None
+    google_client_secret: Optional[str] = None
+    google_redirect_uri: Optional[str] = None
+    
+    # JWT Configuration
+    jwt_secret_key: Optional[str] = None
+    
     # Database
     database_url: str = "sqlite:///./skills_chatbot.db"
     

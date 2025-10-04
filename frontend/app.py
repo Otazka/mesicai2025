@@ -233,7 +233,8 @@ def render_chat_page():
             })
             
             # Clear input and rerun
-            st.session_state.chat_input = ""
+            if "chat_input" in st.session_state:
+                del st.session_state.chat_input
             st.rerun()
 
 

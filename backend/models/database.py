@@ -19,9 +19,17 @@ class User(Base):
     __tablename__ = "users"
     
     id = Column(Integer, primary_key=True, index=True)
-    session_id = Column(String, unique=True, index=True, nullable=False)
-    target_role = Column(String, nullable=False)
-    experience_level = Column(String, nullable=False)
+    # Authentication fields
+    google_id = Column(String, unique=True, index=True, nullable=True)
+    email = Column(String, unique=True, index=True, nullable=True)
+    name = Column(String, nullable=True)
+    picture_url = Column(String, nullable=True)
+    is_verified = Column(String, default="false")
+    last_login = Column(DateTime, nullable=True)
+    # Legacy fields for backward compatibility
+    session_id = Column(String, unique=True, index=True, nullable=True)
+    target_role = Column(String, nullable=True)
+    experience_level = Column(String, nullable=True)
     goals = Column(JSON, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow)
     

@@ -18,6 +18,14 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
+# Import authentication routes
+try:
+    from backend.api.auth_routes import router as auth_router
+    AUTH_AVAILABLE = True
+except ImportError:
+    AUTH_AVAILABLE = False
+    print("⚠️  Authentication routes not available - Google OAuth not configured")
+
 # Create FastAPI app
 app = FastAPI(
     title="AI Skills Development Chatbot",
@@ -33,6 +41,11 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Include authentication routes if available
+if AUTH_AVAILABLE:
+    app.include_router(auth_router)
+    print("✅ Google OAuth authentication routes included")
 
 # Mock data for testing
 MOCK_SKILLS = {
