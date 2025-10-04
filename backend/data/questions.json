@@ -1,0 +1,378 @@
+{
+  "python": {
+    "basics": [
+      {
+        "id": "python_basics_1",
+        "topic": "python",
+        "subtopic": "basics",
+        "question": "Explain the difference between a list and a tuple in Python. When would you use each?",
+        "difficulty": "beginner",
+        "evaluation_criteria": [
+          "understanding of mutability",
+          "knowledge of use cases",
+          "awareness of performance implications"
+        ]
+      },
+      {
+        "id": "python_basics_2",
+        "topic": "python",
+        "subtopic": "basics",
+        "question": "What is the difference between 'is' and '==' in Python? Provide examples.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of identity vs equality",
+          "knowledge of object identity",
+          "practical examples"
+        ]
+      },
+      {
+        "id": "python_basics_3",
+        "topic": "python",
+        "subtopic": "basics",
+        "question": "How do you handle exceptions in Python? Write a code example that demonstrates proper exception handling.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "proper try/except syntax",
+          "specific exception handling",
+          "cleanup and resource management"
+        ]
+      },
+      {
+        "id": "python_basics_4",
+        "topic": "python",
+        "subtopic": "basics",
+        "question": "Explain Python's variable scoping rules. What is the LEGB rule?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of scope levels",
+          "knowledge of LEGB rule",
+          "practical examples"
+        ]
+      },
+      {
+        "id": "python_basics_5",
+        "topic": "python",
+        "subtopic": "basics",
+        "question": "What are list comprehensions? Write a list comprehension that squares even numbers from 1 to 20.",
+        "difficulty": "beginner",
+        "evaluation_criteria": [
+          "understanding of syntax",
+          "correct implementation",
+          "efficiency awareness"
+        ]
+      }
+    ],
+    "oop": [
+      {
+        "id": "python_oop_1",
+        "topic": "python",
+        "subtopic": "oop",
+        "question": "Explain the difference between single and multiple inheritance in Python. What is the Method Resolution Order (MRO)?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of inheritance concepts",
+          "knowledge of MRO",
+          "awareness of diamond problem"
+        ]
+      },
+      {
+        "id": "python_oop_2",
+        "topic": "python",
+        "subtopic": "oop",
+        "question": "What is the difference between a class method, static method, and instance method? Provide examples of each.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of method types",
+          "correct usage examples",
+          "knowledge of when to use each"
+        ]
+      },
+      {
+        "id": "python_oop_3",
+        "topic": "python",
+        "subtopic": "oop",
+        "question": "Explain encapsulation in Python. How do you implement private attributes and methods?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of encapsulation",
+          "knowledge of naming conventions",
+          "awareness of Python's approach"
+        ]
+      },
+      {
+        "id": "python_oop_4",
+        "topic": "python",
+        "subtopic": "oop",
+        "question": "What is polymorphism in Python? How does duck typing relate to polymorphism?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of polymorphism",
+          "knowledge of duck typing",
+          "practical examples"
+        ]
+      },
+      {
+        "id": "python_oop_5",
+        "topic": "python",
+        "subtopic": "oop",
+        "question": "Design a simple class hierarchy for a library system with books, magazines, and DVDs. Show inheritance and method overriding.",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "proper class design",
+          "effective use of inheritance",
+          "method overriding implementation"
+        ]
+      }
+    ],
+    "advanced": [
+      {
+        "id": "python_advanced_1",
+        "topic": "python",
+        "subtopic": "advanced",
+        "question": "What are decorators in Python? Write a decorator that measures the execution time of a function.",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "understanding of decorator concept",
+          "correct implementation",
+          "practical application"
+        ]
+      },
+      {
+        "id": "python_advanced_2",
+        "topic": "python",
+        "subtopic": "advanced",
+        "question": "Explain generators in Python. What is the difference between a generator function and a generator expression?",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "understanding of generators",
+          "knowledge of yield keyword",
+          "memory efficiency awareness"
+        ]
+      },
+      {
+        "id": "python_advanced_3",
+        "topic": "python",
+        "subtopic": "advanced",
+        "question": "What are context managers? Write a custom context manager for file operations.",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "understanding of context managers",
+          "correct implementation",
+          "resource management awareness"
+        ]
+      },
+      {
+        "id": "python_advanced_4",
+        "topic": "python",
+        "subtopic": "advanced",
+        "question": "Explain metaclasses in Python. When would you use them?",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "understanding of metaclass concept",
+          "knowledge of use cases",
+          "awareness of complexity"
+        ]
+      },
+      {
+        "id": "python_advanced_5",
+        "topic": "python",
+        "subtopic": "advanced",
+        "question": "What is the Global Interpreter Lock (GIL)? How does it affect Python's threading model?",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "understanding of GIL",
+          "knowledge of threading implications",
+          "awareness of alternatives"
+        ]
+      }
+    ]
+  },
+  "algorithms": {
+    "sorting": [
+      {
+        "id": "algo_sorting_1",
+        "topic": "algorithms",
+        "subtopic": "sorting",
+        "question": "Explain the bubble sort algorithm. What is its time complexity? When would you use it?",
+        "difficulty": "beginner",
+        "evaluation_criteria": [
+          "understanding of algorithm steps",
+          "knowledge of time complexity",
+          "awareness of use cases"
+        ]
+      },
+      {
+        "id": "algo_sorting_2",
+        "topic": "algorithms",
+        "subtopic": "sorting",
+        "question": "Implement merge sort in Python. Explain how the divide-and-conquer approach works.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "correct implementation",
+          "understanding of divide-and-conquer",
+          "knowledge of space complexity"
+        ]
+      },
+      {
+        "id": "algo_sorting_3",
+        "topic": "algorithms",
+        "subtopic": "sorting",
+        "question": "Compare quick sort and merge sort. What are the advantages and disadvantages of each?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of both algorithms",
+          "comparison of complexities",
+          "knowledge of trade-offs"
+        ]
+      },
+      {
+        "id": "algo_sorting_4",
+        "topic": "algorithms",
+        "subtopic": "sorting",
+        "question": "What is a stable sorting algorithm? Which sorting algorithms are stable and which are not?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of stability concept",
+          "knowledge of stable algorithms",
+          "awareness of importance"
+        ]
+      },
+      {
+        "id": "algo_sorting_5",
+        "topic": "algorithms",
+        "subtopic": "sorting",
+        "question": "Implement heap sort. Explain how a heap data structure is used in the algorithm.",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "correct heap sort implementation",
+          "understanding of heap operations",
+          "knowledge of heap properties"
+        ]
+      }
+    ],
+    "searching": [
+      {
+        "id": "algo_searching_1",
+        "topic": "algorithms",
+        "subtopic": "searching",
+        "question": "Implement binary search in Python. What are the prerequisites for using binary search?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "correct implementation",
+          "understanding of prerequisites",
+          "knowledge of time complexity"
+        ]
+      },
+      {
+        "id": "algo_searching_2",
+        "topic": "algorithms",
+        "subtopic": "searching",
+        "question": "Explain the difference between DFS and BFS. When would you use each?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of both algorithms",
+          "knowledge of use cases",
+          "awareness of space complexity"
+        ]
+      },
+      {
+        "id": "algo_searching_3",
+        "topic": "algorithms",
+        "subtopic": "searching",
+        "question": "Implement DFS recursively and iteratively. What are the advantages of each approach?",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "correct implementations",
+          "understanding of recursion vs iteration",
+          "knowledge of trade-offs"
+        ]
+      },
+      {
+        "id": "algo_searching_4",
+        "topic": "algorithms",
+        "subtopic": "searching",
+        "question": "How would you find the shortest path in an unweighted graph? Implement the solution.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of BFS for shortest path",
+          "correct implementation",
+          "knowledge of graph representation"
+        ]
+      },
+      {
+        "id": "algo_searching_5",
+        "topic": "algorithms",
+        "subtopic": "searching",
+        "question": "Explain A* search algorithm. How does it differ from Dijkstra's algorithm?",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "understanding of A* algorithm",
+          "knowledge of heuristics",
+          "comparison with Dijkstra"
+        ]
+      }
+    ],
+    "dynamic_programming": [
+      {
+        "id": "algo_dp_1",
+        "topic": "algorithms",
+        "subtopic": "dynamic_programming",
+        "question": "What is dynamic programming? Explain the key characteristics that make a problem suitable for DP.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of DP concept",
+          "knowledge of optimal substructure",
+          "awareness of overlapping subproblems"
+        ]
+      },
+      {
+        "id": "algo_dp_2",
+        "topic": "algorithms",
+        "subtopic": "dynamic_programming",
+        "question": "Solve the Fibonacci sequence problem using both memoization and tabulation. Compare the approaches.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "correct implementations",
+          "understanding of both approaches",
+          "knowledge of space-time trade-offs"
+        ]
+      },
+      {
+        "id": "algo_dp_3",
+        "topic": "algorithms",
+        "subtopic": "dynamic_programming",
+        "question": "Implement the 0/1 Knapsack problem using dynamic programming. Explain your approach.",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "correct DP solution",
+          "understanding of problem structure",
+          "explanation of approach"
+        ]
+      },
+      {
+        "id": "algo_dp_4",
+        "topic": "algorithms",
+        "subtopic": "dynamic_programming",
+        "question": "Solve the Longest Common Subsequence (LCS) problem. What is the time and space complexity?",
+        "difficulty": "advanced",
+        "evaluation_criteria": [
+          "correct LCS implementation",
+          "understanding of complexity",
+          "knowledge of applications"
+        ]
+      },
+      {
+        "id": "algo_dp_5",
+        "topic": "algorithms",
+        "subtopic": "dynamic_programming",
+        "question": "Explain the difference between top-down and bottom-up dynamic programming approaches.",
+        "difficulty": "intermediate",
+        "evaluation_criteria": [
+          "understanding of both approaches",
+          "knowledge of trade-offs",
+          "practical examples"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "python": {
+    "basics": {
+      "description": "Fundamental Python programming concepts",
+      "skills": {
+        "variables": {
+          "description": "Understanding variable declaration, naming, and scope",
+          "proficiency_levels": {
+            "beginner": "Can declare and use basic variables",
+            "intermediate": "Understands variable scope and naming conventions",
+            "advanced": "Mastery of variable scoping, closures, and best practices"
+          }
+        },
+        "data_types": {
+          "description": "Knowledge of Python's built-in data types",
+          "proficiency_levels": {
+            "beginner": "Knows basic types (int, str, bool, list)",
+            "intermediate": "Understands all built-in types and type conversion",
+            "advanced": "Expert knowledge of type hints, custom types, and type checking"
+          }
+        },
+        "control_flow": {
+          "description": "Conditional statements and loops",
+          "proficiency_levels": {
+            "beginner": "Can write if/else and for/while loops",
+            "intermediate": "Understands nested conditions and loop optimization",
+            "advanced": "Mastery of complex control flow and performance considerations"
+          }
+        },
+        "functions": {
+          "description": "Function definition, parameters, and return values",
+          "proficiency_levels": {
+            "beginner": "Can define and call simple functions",
+            "intermediate": "Understands parameters, return values, and scope",
+            "advanced": "Expert in decorators, closures, and functional programming"
+          }
+        },
+        "error_handling": {
+          "description": "Exception handling and debugging",
+          "proficiency_levels": {
+            "beginner": "Basic try/except usage",
+            "intermediate": "Proper exception handling and custom exceptions",
+            "advanced": "Advanced debugging techniques and error recovery"
+          }
+        }
+      }
+    },
+    "oop": {
+      "description": "Object-Oriented Programming in Python",
+      "skills": {
+        "classes": {
+          "description": "Class definition and instantiation",
+          "proficiency_levels": {
+            "beginner": "Can create simple classes with methods",
+            "intermediate": "Understands class attributes, methods, and self",
+            "advanced": "Mastery of class design patterns and best practices"
+          }
+        },
+        "inheritance": {
+          "description": "Class inheritance and method overriding",
+          "proficiency_levels": {
+            "beginner": "Basic inheritance concepts",
+            "intermediate": "Multiple inheritance and method resolution order",
+            "advanced": "Complex inheritance hierarchies and design patterns"
+          }
+        },
+        "polymorphism": {
+          "description": "Polymorphic behavior and method overriding",
+          "proficiency_levels": {
+            "beginner": "Basic method overriding",
+            "intermediate": "Understanding of duck typing and polymorphism",
+            "advanced": "Advanced polymorphic patterns and interfaces"
+          }
+        },
+        "encapsulation": {
+          "description": "Data hiding and access control",
+          "proficiency_levels": {
+            "beginner": "Basic private/public concepts",
+            "intermediate": "Property decorators and access control",
+            "advanced": "Advanced encapsulation patterns and data protection"
+          }
+        }
+      }
+    },
+    "advanced": {
+      "description": "Advanced Python features and concepts",
+      "skills": {
+        "decorators": {
+          "description": "Function and class decorators",
+          "proficiency_levels": {
+            "beginner": "Basic understanding of decorators",
+            "intermediate": "Can create simple decorators",
+            "advanced": "Complex decorator patterns and metaprogramming"
+          }
+        },
+        "generators": {
+          "description": "Generator functions and expressions",
+          "proficiency_levels": {
+            "beginner": "Basic generator comprehension",
+            "intermediate": "Can create generator functions",
+            "advanced": "Advanced generator patterns and coroutines"
+          }
+        },
+        "context_managers": {
+          "description": "Context managers and the with statement",
+          "proficiency_levels": {
+            "beginner": "Basic with statement usage",
+            "intermediate": "Can create custom context managers",
+            "advanced": "Advanced context manager patterns and async context managers"
+          }
+        },
+        "metaclasses": {
+          "description": "Metaclasses and class creation",
+          "proficiency_levels": {
+            "beginner": "Basic understanding of class creation",
+            "intermediate": "Understanding of metaclass concepts",
+            "advanced": "Can create and use metaclasses effectively"
+          }
+        }
+      }
+    }
+  },
+  "algorithms": {
+    "sorting": {
+      "description": "Sorting algorithms and their implementations",
+      "skills": {
+        "bubble_sort": {
+          "description": "Bubble sort algorithm",
+          "proficiency_levels": {
+            "beginner": "Understands the basic concept",
+            "intermediate": "Can implement and explain time complexity",
+            "advanced": "Can optimize and compare with other sorting methods"
+          }
+        },
+        "merge_sort": {
+          "description": "Merge sort algorithm",
+          "proficiency_levels": {
+            "beginner": "Understands divide and conquer concept",
+            "intermediate": "Can implement merge sort",
+            "advanced": "Understands space-time tradeoffs and optimizations"
+          }
+        },
+        "quick_sort": {
+          "description": "Quick sort algorithm",
+          "proficiency_levels": {
+            "beginner": "Basic understanding of partitioning",
+            "intermediate": "Can implement quicksort with pivot selection",
+            "advanced": "Advanced pivot selection strategies and worst-case handling"
+          }
+        }
+      }
+    },
+    "searching": {
+      "description": "Search algorithms and data structures",
+      "skills": {
+        "binary_search": {
+          "description": "Binary search algorithm",
+          "proficiency_levels": {
+            "beginner": "Understands the concept of binary search",
+            "intermediate": "Can implement binary search on sorted arrays",
+            "advanced": "Can apply binary search to complex problems and variations"
+          }
+        },
+        "dfs": {
+          "description": "Depth-First Search",
+          "proficiency_levels": {
+            "beginner": "Basic understanding of graph traversal",
+            "intermediate": "Can implement DFS recursively and iteratively",
+            "advanced": "Advanced DFS applications and optimizations"
+          }
+        },
+        "bfs": {
+          "description": "Breadth-First Search",
+          "proficiency_levels": {
+            "beginner": "Basic understanding of level-order traversal",
+            "intermediate": "Can implement BFS with queues",
+            "advanced": "Advanced BFS applications and shortest path problems"
+          }
+        }
+      }
+    },
+    "dynamic_programming": {
+      "description": "Dynamic programming concepts and applications",
+      "skills": {
+        "memoization": {
+          "description": "Memoization technique for optimization",
+          "proficiency_levels": {
+            "beginner": "Basic understanding of caching results",
+            "intermediate": "Can implement memoization for recursive problems",
+            "advanced": "Advanced memoization patterns and space optimization"
+          }
+        },
+        "tabulation": {
+          "description": "Bottom-up dynamic programming",
+          "proficiency_levels": {
+            "beginner": "Basic understanding of building solutions bottom-up",
+            "intermediate": "Can convert recursive solutions to tabulation",
+            "advanced": "Advanced DP patterns and space optimization techniques"
+          }
+        }
+      }
+    }
+  }
+}
